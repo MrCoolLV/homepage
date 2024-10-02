@@ -4,15 +4,15 @@
 
 - My First Group:
     - My First Service:
-        href: http://localhost/
+        href: http://docker.gonzalez.lv:3000/
         description: Homepage is awesome
 
 - My Second Group:
     - My Second Service:
-        href: http://localhost/
+        href: http://docker.gonzalez.lv:3000/
         description: Homepage is the best
 
 - My Third Group:
     - My Third Service:
-        href: http://localhost/
+        href: http://docker.gonzalez.lv:3000/
         description: Homepage is 😎
